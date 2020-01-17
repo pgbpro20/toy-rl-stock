@@ -1,2 +1,3 @@
 # toy-rl-stock
-OpenAI Gym implementation of Toy RL Stock Trading.
+Python Module OpenAI Gym implementation of Toy RL Stock Trading.
+
